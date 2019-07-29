@@ -1,0 +1,12 @@
+version: "3"
+services:
+  web:
+    build:
+      context: ./
+    privileged: true
+    volumes:
+      - "./:/app"
+    ports:
+      - 3000:3000
+    container_name: "tamutebu-rockin2019"
+    tty: true

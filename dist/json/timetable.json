@@ -1,0 +1,819 @@
+{
+    "days": [
+        {
+            "date": "8/3(SAT)",
+            "stages": [
+                {
+                    "name": "GLASS STAGE",
+                    "color": "#4c4949",
+                    "acts": [
+                        {
+                            "name": "ゆず",
+                            "startH": "10",
+                            "startM": "30",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "ゴールデンボンバー",
+                            "startH": "11",
+                            "startM": "45",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "フレデリック",
+                            "startH": "13",
+                            "startM": "00",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "sumika",
+                            "startH": "14",
+                            "startM": "15",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "ヤバイTシャツ屋さん",
+                            "startH": "15",
+                            "startM": "30",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "THE ORAL CIGARETTES",
+                            "startH": "16",
+                            "startM": "45",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "SEKAI NO OWARI",
+                            "startH": "18",
+                            "startM": "05",
+                            "time": "85",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "PARK STAGE",
+                    "color": "#F29500",
+                    "acts": [
+                        {
+                            "name": "BiSH",
+                            "startH": "10",
+                            "startM": "30",
+                            "time": "45",
+                            "select": false
+                        },
+                        {
+                            "name": "miwa",
+                            "startH": "11",
+                            "startM": "40",
+                            "time": "45",
+                            "select": false
+                        },
+                        {
+                            "name": "LiSA",
+                            "startH": "12",
+                            "startM": "50",
+                            "time": "45",
+                            "select": false
+                        },
+                        {
+                            "name": "coldrain",
+                            "startH": "14",
+                            "startM": "00",
+                            "time": "45",
+                            "select": false
+                        },
+                        {
+                            "name": "Official髭男dism",
+                            "startH": "15",
+                            "startM": "10",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "KICK THE CAN CREW",
+                            "startH": "16",
+                            "startM": "20",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "HYDE",
+                            "startH": "17",
+                            "startM": "30",
+                            "time": "50",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "LAKE STAGE",
+                    "color": "#0083c9",
+                    "acts": [
+                        {
+                            "name": "POLYSICS",
+                            "startH": "10",
+                            "startM": "30",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "GOOD4NOTHING",
+                            "startH": "11",
+                            "startM": "40",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "OKAMOTO'S",
+                            "startH": "12",
+                            "startM": "50",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "175R",
+                            "startH": "14",
+                            "startM": "00",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "SPECIALOTHERS",
+                            "startH": "15",
+                            "startM": "10",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "ゴスペラーズ",
+                            "startH": "16",
+                            "startM": "20",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "THE BACK HORN",
+                            "startH": "17",
+                            "startM": "30",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "CAPSULE/中田ヤスタカ",
+                            "startH": "18",
+                            "startM": "35",
+                            "time": "45",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "SOUND OF FOREST",
+                    "color": "#5bb531",
+                    "acts": [
+                        {
+                            "name": "PENGUINRESEARCH",
+                            "startH": "11",
+                            "startM": "10",
+                            "time": "35",
+                            "select": false
+                        },
+                        {
+                            "name": "FOMARE",
+                            "startH": "12",
+                            "startM": "20",
+                            "time": "35",
+                            "select": false
+                        },
+                        {
+                            "name": "ENTH",
+                            "startH": "13",
+                            "startM": "30",
+                            "time": "35",
+                            "select": false
+                        },
+                        {
+                            "name": "SOIL&''PIMP''SESSIONS",
+                            "startH": "14",
+                            "startM": "40",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "Plastic Tree",
+                            "startH": "15",
+                            "startM": "50",
+                            "time": "35",
+                            "select": false
+                        },
+                        {
+                            "name": "中村 一義",
+                            "startH": "17",
+                            "startM": "00",
+                            "time": "35",
+                            "select": false
+                        },
+                        {
+                            "name": "the HIATUS",
+                            "startH": "18",
+                            "startM": "10",
+                            "time": "40",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "BUZZ STAGE",
+                    "color": "#E93194",
+                    "acts": [
+                        {
+                            "name": "DJ'TEKINA//SOMETHING a.k.a ゆよゆよっぺ",
+                            "startH": "08",
+                            "startM": "50",
+                            "time": "90",
+                            "select": false
+                        },
+                        {
+                            "name": "ネクライトーキー",
+                            "startH": "11",
+                            "startM": "20",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "秋山黄色",
+                            "startH": "12",
+                            "startM": "35",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "バンドハラスメント",
+                            "startH": "13",
+                            "startM": "50",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "ユアネス",
+                            "startH": "15",
+                            "startM": "05",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "MINAMI NiNE",
+                            "startH": "16",
+                            "startM": "20",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "Reol",
+                            "startH": "17",
+                            "startM": "35",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "DJやついいちろう(エレキコミック)",
+                            "startH": "18",
+                            "startM": "40",
+                            "time": "55",
+                            "select": false
+                        },
+                        {
+                            "name": "DJ'TEKINA//SOMETHING a.k.a ゆよゆよっぺ　",
+                            "startH": "19",
+                            "startM": "35",
+                            "time": "55",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "WING STAGE",
+                    "color": "#c7030a",
+                    "acts": [
+                        {
+                            "name": "EGO BRAIN",
+                            "startH": "11",
+                            "startM": "10",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "Amelie",
+                            "startH": "12",
+                            "startM": "20",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "ASH DA HERO",
+                            "startH": "13",
+                            "startM": "30",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "DEZERT",
+                            "startH": "14",
+                            "startM": "40",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "The Floor",
+                            "startH": "15",
+                            "startM": "50",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "KOTORI",
+                            "startH": "17",
+                            "startM": "00",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "オメでたい頭でなにより",
+                            "startH": "18",
+                            "startM": "10",
+                            "time": "35",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "HILLSIDE STAGE",
+                    "color": "#00adb2",
+                    "acts": [
+                        {
+                            "name": "Ivy to Fraudulent Game",
+                            "startH": "11",
+                            "startM": "15",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "KNOCK OUT MONKEY",
+                            "startH": "12",
+                            "startM": "30",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "佐藤千亜紀",
+                            "startH": "13",
+                            "startM": "45",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "PEDRO",
+                            "startH": "15",
+                            "startM": "00",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "nano.RIPE",
+                            "startH": "16",
+                            "startM": "15",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "ズーカラデル",
+                            "startH": "17",
+                            "startM": "25",
+                            "time": "35",
+                            "select": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "date": "8/4(SUN)",
+            "stages": [
+                {
+                    "name": "GLASS STAGE",
+                    "color": "#4c4949",
+                    "acts": [
+                        {
+                            "name": "欅坂46",
+                            "startH": "10",
+                            "startM": "30",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "NICO Touches the Walles",
+                            "startH": "11",
+                            "startM": "45",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "04 Limited Sazabys",
+                            "startH": "13",
+                            "startM": "00",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "サンボマスター",
+                            "startH": "14",
+                            "startM": "15",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "Perfume",
+                            "startH": "15",
+                            "startM": "30",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "WANIMA",
+                            "startH": "16",
+                            "startM": "45",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "10-FEET",
+                            "startH": "18",
+                            "startM": "05",
+                            "time": "85",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "PARK STAGE",
+                    "color": "#F29500",
+                    "acts": [
+                        {
+                            "name": "打首獄門同好会",
+                            "startH": "10",
+                            "startM": "30",
+                            "time": "45",
+                            "select": false
+                        },
+                        {
+                            "name": "HY",
+                            "startH": "11",
+                            "startM": "40",
+                            "time": "45",
+                            "select": false
+                        },
+                        {
+                            "name": " 木村カエラ",
+                            "startH": "12",
+                            "startM": "50",
+                            "time": "45",
+                            "select": false
+                        },
+                        {
+                            "name": "9mm Parabellum Bullet",
+                            "startH": "14",
+                            "startM": "00",
+                            "time": "45",
+                            "select": false
+                        },
+                        {
+                            "name": "King Gnu",
+                            "startH": "15",
+                            "startM": "10",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "SUPER BEAVER",
+                            "startH": "16",
+                            "startM": "20",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "KREVA",
+                            "startH": "17",
+                            "startM": "30",
+                            "time": "50",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "LAKE STAGE",
+                    "color": "#0083c9",
+                    "acts": [
+                        {
+                            "name": "アルカラ",
+                            "startH": "10",
+                            "startM": "30",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "パスピエ",
+                            "startH": "11",
+                            "startM": "40",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "SKY-HI",
+                            "startH": "12",
+                            "startM": "50",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "私立恵比寿中学",
+                            "startH": "14",
+                            "startM": "00",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "the band apart",
+                            "startH": "15",
+                            "startM": "10",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "竹原ピストル",
+                            "startH": "16",
+                            "startM": "20",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "Hump Back",
+                            "startH": "17",
+                            "startM": "30",
+                            "time": "40",
+                            "select": false
+                        },
+                        {
+                            "name": "忘れらんねえよ",
+                            "startH": "18",
+                            "startM": "35",
+                            "time": "45",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "SOUND OF FOREST",
+                    "color": "#5bb531",
+                    "acts": [
+                        {
+                            "name": "マカロニえんぴつ",
+                            "startH": "11",
+                            "startM": "10",
+                            "time": "35",
+                            "select": false
+                        },
+                        {
+                            "name": "SAKANAMON",
+                            "startH": "12",
+                            "startM": "20",
+                            "time": "35",
+                            "select": false
+                        },
+                        {
+                            "name": "バックドロップシンデレラ",
+                            "startH": "13",
+                            "startM": "30",
+                            "time": "35",
+                            "select": false
+                        },
+                        {
+                            "name": "SIX LOUNGE",
+                            "startH": "14",
+                            "startM": "40",
+                            "time": "50",
+                            "select": false
+                        },
+                        {
+                            "name": "ハルカミライ",
+                            "startH": "15",
+                            "startM": "50",
+                            "time": "35",
+                            "select": false
+                        },
+                        {
+                            "name": "アンジュルム",
+                            "startH": "17",
+                            "startM": "00",
+                            "time": "35",
+                            "select": false
+                        },
+                        {
+                            "name": "Aimer",
+                            "startH": "18",
+                            "startM": "10",
+                            "time": "40",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "BUZZ STAGE",
+                    "color": "#E93194",
+                    "acts": [
+                        {
+                            "name": "DJライブキッズあるある中の人",
+                            "startH": "08",
+                            "startM": "50",
+                            "time": "70",
+                            "select": false
+                        },
+                        {
+                            "name": "東京少年倶楽部",
+                            "startH": "10",
+                            "startM": "05",
+                            "time": "15",
+                            "select": false
+                        },
+                        {
+                            "name": "Juice=Juice",
+                            "startH": "11",
+                            "startM": "20",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "ReVision of Sence",
+                            "startH": "12",
+                            "startM": "35",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "mol-74",
+                            "startH": "13",
+                            "startM": "50",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "reGretGirl",
+                            "startH": "15",
+                            "startM": "05",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "THE PINBALLS",
+                            "startH": "16",
+                            "startM": "20",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "Survive Said The Prophet",
+                            "startH": "17",
+                            "startM": "35",
+                            "time": "55",
+                            "select": false
+                        },
+                        {
+                            "name": "魔法少女になりた隊(火寺バジル&gari)",
+                            "startH": "18",
+                            "startM": "40",
+                            "time": "55",
+                            "select": false
+                        },
+                        {
+                            "name": "DJライブキッズあるある中の人　",
+                            "startH": "19",
+                            "startM": "35",
+                            "time": "55",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "WING STAGE",
+                    "color": "#c7030a",
+                    "acts": [
+                        {
+                            "name": "Track's",
+                            "startH": "11",
+                            "startM": "10",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "リーガルリリー",
+                            "startH": "12",
+                            "startM": "20",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "BURNOUT SYNDROMES",
+                            "startH": "13",
+                            "startM": "30",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "コレサワ",
+                            "startH": "14",
+                            "startM": "40",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "Lucky Kilimanjaro",
+                            "startH": "15",
+                            "startM": "50",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "milet",
+                            "startH": "17",
+                            "startM": "00",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "WOMCADOL",
+                            "startH": "18",
+                            "startM": "10",
+                            "time": "35",
+                            "select": false
+                        }
+                    ]
+                },
+                {
+                    "name": "HILLSIDE STAGE",
+                    "color": "#00adb2",
+                    "acts": [
+                        {
+                            "name": "井上苑子",
+                            "startH": "11",
+                            "startM": "15",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "Half time Old",
+                            "startH": "12",
+                            "startM": "30",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "宇宙まお",
+                            "startH": "13",
+                            "startM": "45",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "kobore",
+                            "startH": "15",
+                            "startM": "00",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "日食なつこ",
+                            "startH": "16",
+                            "startM": "15",
+                            "time": "30",
+                            "select": false
+                        },
+                        {
+                            "name": "THE ラブ人間",
+                            "startH": "17",
+                            "startM": "25",
+                            "time": "35",
+                            "select": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
